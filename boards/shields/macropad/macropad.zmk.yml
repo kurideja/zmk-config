@@ -1,0 +1,6 @@
+file_format: "1"
+id: macropad
+name: Macropad
+type: shield
+features:
+  - keys
