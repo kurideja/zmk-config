@@ -19,5 +19,6 @@
 #
 ---
 include:
-  - board: rpi_pico
+  - board: nice_nano
     shield: macropad
+    snippet: studio-rpc-usb-uart
