@@ -13,4 +13,3 @@ manifest:
     - name: macropad
       revision: main
       path: boards/shields/macropad
-      type: local
